@@ -1,5 +1,4 @@
-## How to install wsl in windows server 2019
-# Windows server 2019 do not support docker, the following steps only for logs
+# How to install wsl in windows server 2019
 1. Check windows ***server 2019 version***: *1709 or later*, type command **winver** in command line.<br>
 2. Enable the Windows Subsystem for Linux
 ``` PowerShell
